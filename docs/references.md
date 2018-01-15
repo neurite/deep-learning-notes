@@ -1,0 +1,5 @@
+1. [numpy-100](https://github.com/rougier/numpy-100)
+2. [from-python-to-numpy](https://github.com/rougier/from-python-to-numpy)
+3. [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+4. [deep-learning-for-nlp-in-pytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
+5. [https://github.com/HIPS/autograd](autograd)
