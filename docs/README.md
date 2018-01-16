@@ -1,4 +1,28 @@
 
+### Setup
+
+1. Numpy
+2. Autograd (used as reference implementation)
+3. PyTorch (used as reference implementation)
+
+### Numpy
+
+### Vectors and matrices
+
+### Feed forward
+
+### Autograd
+
+### Backprop
+
+### Fully connected
+
+### Optimization
+
+### CNN
+
+### RNN
+
 ### Resources
 
 1. Numpy
