@@ -33,5 +33,6 @@
 3. PyTorch
     1. [https://github.com/MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
     2. [https://github.com/yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+    3. [https://github.com/jcjohnson/pytorch-examples](https://github.com/jcjohnson/pytorch-examples)
 4. NLP
     1. [deep-learning-for-nlp-in-pytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
