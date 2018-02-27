@@ -9,15 +9,11 @@
 
 ### Vectors and matrices
 
-### Feed forward
-
-### Autograd
-
-### Backprop
-
 ### Fully connected
 
-### Optimization
+### Feed forward
+
+### Optimization/Backprop/Autograd
 
 ### CNN
 
